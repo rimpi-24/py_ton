@@ -1,0 +1,6 @@
+###Project Outline
+#Scrape https://github.com/topics
+#Get a list of topics. For each topic, we'll get topic title, topic page URL and topic description
+#For each topic, get the top 30 repositories in the topic from the topic page
+#or each repository,grab the repo name, username, stars and repo URL
+#For each topic create a CSV file
