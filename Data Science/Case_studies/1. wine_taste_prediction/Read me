@@ -1,0 +1,14 @@
+Wine taste pridiction data was taken from kaggle
+
+Attributes:-
+alcohol : Alcohol is the ingredient found in beer, wine and spirits that causes drunkenness.
+sulphates : the salts and esters of sulphuric acid, a highly corrosive acid.
+citric Acid : a weak acid that is found naturally in all citrus fruits (lemon).
+fixed acidity : these acids originate in grapes with the exception of succinic acid.
+free SO2 : to preservative and stabilizer in wine production to prevent undesired biochemical processes.
+total SO2 : used in winemaking as a preservative to prevent oxidation and microbial spoilage.
+residual sugar : it concentration consists primarily of the reducing sugars glucose and fructose.
+pH : quantitative measure of the acidity or basicity of aqueous or other liquid solutions.
+density : mass of a unit volume of a material substance.
+chlorides : It helps keep the amount of fluid inside and outside of your cells in balance.One of the most important electrolytes in the blood.
+volatile acidity : steam distillable acids, if the value is higher it will result in the concomitant formation of other, sometimes unpleasant, aroma compounds
